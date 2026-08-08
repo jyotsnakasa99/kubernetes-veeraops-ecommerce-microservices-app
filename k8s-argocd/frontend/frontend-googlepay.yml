@@ -6,8 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/CloudTechDevOps/kubernetes-veeraops-ecommerce-microservices-app.git
-    path: frontend/googlepay
+    repoURL: https://github.com/jyotsnakasa99/kubernetes-veeraops-ecommerce-microservices-app.git
     targetRevision: main
   destination:
     server: https://kubernetes.default.svc
